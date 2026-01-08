@@ -24,7 +24,6 @@ Here you will find a collection of my Python projects built using **OOP principl
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-abdullah--Dev--12125-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![Repo Size](https://img.shields.io/github/repo-size/abdullah-Dev-12125-code/OOP-Python_Projects?style=for-the-badge&color=4CAF50)
 
 ---
