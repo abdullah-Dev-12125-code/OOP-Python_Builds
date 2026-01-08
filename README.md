@@ -30,7 +30,7 @@ Here you will find a collection of my Python projects built using **OOP principl
 
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-![Last Commit](https://img.shields.io/github/last-commit/abdullah-Dev-12125-code/Python-projects?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/abdullah-Dev-12125-codeOOP-Python_Builds?style=for-the-badge)
 
 ---
 
