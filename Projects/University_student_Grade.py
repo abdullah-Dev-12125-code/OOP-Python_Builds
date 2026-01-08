@@ -20,11 +20,11 @@ class StudentGrading:
         print("╚" + "═" * 45 + "╝\n")
 
 
-print("\n\t\t📌 Initial Grade")
+print("\n\t\t Initial Grade")
 student1 = StudentGrading('John', 101, 'B')
 student1.getter()
 student1.view()
 
 student1.setter('A')
-print("\n\t\t🎯 Final Grade")
+print("\n\t\t Final Grade")
 student1.view()
